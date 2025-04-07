@@ -15,6 +15,6 @@ GitHub does not always render Jupyter Notebooks correctly. For the best viewing 
 ## 📂 Repository Contents
 
 - `biodiversity.ipynb` - Main Jupyter Notebook with code and analysis.
-- `data/` - observations.csv, species_info.csv .
+- `data/` - observations.csv, species_info.csv from the website https://www.kaggle.com/datasets/nationalparkservice/park-biodiversity
 - `README.md` - This file with instructions on how to view the notebook properly.
 
