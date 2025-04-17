@@ -20,3 +20,13 @@ GitHub does not always render Jupyter Notebooks correctly. For the best viewing 
 - -species info contains other information like common name, species family and conservation status
 - `README.md` - This file with instructions on how to view the notebook properly.
 
+
+## Main Insights
+
+From the pie charts - The second pie chart (species type count by endangerment level) has a larger ratio of endangered/threatened species than the first pie chart (total observation count categorised by endangerment level). There are many types of endangered/threatened species observed in all the parks, but fewer quantities observed for them.
+
+From bar chart - The proportions of rare species to total species is the same for all national parks, meaning that there are no parks that need more attention than others
+
+From the family pie chart - Birds and mammals comprise the most ENDANGERED observations, conservation strategies for these families need to be looked at carefully
+
+
