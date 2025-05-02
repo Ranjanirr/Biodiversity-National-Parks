@@ -1,10 +1,6 @@
 # Biodiversity-National-Parks
 
-This analyzes the types and numbers of endangered species in various national parks in the United States. Details include 
-  - Stacked bar chart, displaying the amount and types of rare species observations per national park
-  - Pie chart, grouping species by conservation status
-  - Pie chart, amount of observations by category in for all species vs rare species
-  - List of 5 most endangered species
+-The data folder contains two sets of data - observations, which contains species observation statistics and species, which contains more informaiton about each species. Given this data, I combined it and I wanted to use this data to find answers on which parks contian the most endangered species, and which types of species tend to be most at risk. This analysis was done mostly using bar and pie charts. 
 
 ## 📌 How to View This Notebook Properly
 
