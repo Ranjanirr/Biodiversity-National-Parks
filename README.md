@@ -2,11 +2,6 @@
 
 -The data folder contains two sets of data - observations, which contains species observation statistics and species, which contains more informaiton about each species. Given this data, I combined it and I wanted to use this data to find answers on which parks contian the most endangered species, and which types of species tend to be most at risk. This analysis was done mostly using bar and pie charts. 
 
-## 📌 How to View This Notebook Properly
-
-GitHub does not always render Jupyter Notebooks correctly. For the best viewing experience, open the notebook in **nbviewer**:
-
-👉 [View the properly formatted notebook on nbviewer](https://nbviewer.jupyter.org/github/Ranjanirr/Biodiversity-National-Parks/blob/main/biodiversity.ipynb)
 
 ## 📂 Repository Contents
 
